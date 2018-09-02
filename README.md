@@ -1,6 +1,7 @@
 ﻿# vue.js之Springboot后端
 ---
-后端使用spring-data-jpa操作数据库
+后端使用: spring-data-jpa
+
 ``` bash
 CREATE TABLE `book` (
   `id` int(11) NOT NULL,
